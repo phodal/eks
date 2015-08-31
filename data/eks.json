@@ -1,82 +1,272 @@
 {
   "id": "0",
-  "name": "硬件核心(Hardware Core)",
+  "name": "嵌入式硬件工程师",
   "children": [
     {
       "id": "2",
-      "name": "CPU"
+      "name": "Controller(控制器)",
+      "children": [
+        {
+          "id": "5",
+          "name": "51"
+        },
+        {
+          "id": "6",
+          "name": "HCS12"
+        },
+        {
+          "id": "7",
+          "name": "AVR XMEGA"
+        },
+        {
+          "id": "8",
+          "name": "ESP8266"
+        },
+        {
+          "id": "9",
+          "name": "Coldfire"
+        },
+        {
+          "id": "10",
+          "name": "ARM STM32"
+        },
+        {
+          "id": "13",
+          "name": "MSP430"
+        },
+        {
+          "id": "15",
+          "name": "OMAP"
+        },
+        {
+          "id": "17",
+          "name": "Altera EPM7128S"
+        },
+        {
+          "id": "18",
+          "name": "Lattice LC4128V"
+        },
+        {
+          "id": "20",
+          "name": "Altera Cyclone"
+        },
+        {
+          "id": "21",
+          "name": "Xilinx XC9500"
+        },
+        {
+          "id": "23",
+          "name": "TMS320F28x"
+        },
+        {
+          "id": "24",
+          "name": "MC56 F83x"
+        }
+      ]
     },
     {
-      "id": "3",
-      "name": "MCU"
-    },
-    {
-      "id": "10",
-      "name": "MPU"
-    },
-    {
-      "id": "11",
-      "name": "DSP"
-    },
-    {
-      "id": "13",
-      "name": "SOC"
-    },
-    {
-      "id": "15",
-      "name": "CPLD"
-    },
-    {
-      "id": "18",
-      "name": "FPGA"
-    },
-    {
-      "id": "21",
-      "name": "DSC"
+      "id": "25",
+      "name": "Actuator(执行器)"
     },
     {
       "id": "27",
-      "name": "RIP(人体红外)"
+      "name": "Sensor(传感器)"
     },
     {
-      "id": "28",
-      "name": "Temperture(温度)"
+      "id": "34",
+      "name": "电容"
     },
     {
-      "id": "29",
-      "name": "Light"
+      "id": "35",
+      "name": "保护装置"
     },
     {
-      "id": "30",
-      "name": "Motion(运动)"
+      "id": "36",
+      "name": "端子与连接器"
     },
     {
-      "id": "31",
-      "name": "Camera"
+      "id": "37",
+      "name": "电线"
     },
     {
       "id": "38",
-      "name": "Switch"
-    },
-    {
-      "id": "39",
-      "name": "Keypad"
-    },
-    {
-      "id": "40",
-      "name": "Relay"
+      "name": "开关"
     },
     {
       "id": "42",
-      "name": "Thermistor (热敏电阻)"
+      "name": "电阻"
     },
     {
-      "id": "43",
-      "name": "Varistor(压敏电阻)"
+      "id": "45",
+      "name": "电磁感应装置"
     },
     {
       "id": "46",
-      "name": "电阻排"
+      "name": "network"
+    },
+    {
+      "id": "48",
+      "name": "忆阻器"
+    },
+    {
+      "id": "49",
+      "name": "压电装置、晶体谐振器"
+    },
+    {
+      "id": "50",
+      "name": "电源"
+    },
+    {
+      "id": "51",
+      "name": "二极管"
+    },
+    {
+      "id": "52",
+      "name": "晶体管"
+    },
+    {
+      "id": "54",
+      "name": "ADC / DAC"
+    },
+    {
+      "id": "55",
+      "name": "RTC"
+    },
+    {
+      "id": "56",
+      "name": "Timer / Watchdog Timer (定时器)"
+    },
+    {
+      "id": "57",
+      "name": "Flash / NAND Flash"
+    },
+    {
+      "id": "58",
+      "name": "ROM / EEPROM"
+    },
+    {
+      "id": "59",
+      "name": "RAM"
+    },
+    {
+      "id": "60",
+      "name": "Cache"
+    },
+    {
+      "id": "61",
+      "name": "PWM"
+    },
+    {
+      "id": "62",
+      "name": "I/O / GPIO"
+    },
+    {
+      "id": "63",
+      "name": "UART"
+    },
+    {
+      "id": "64",
+      "name": "Modem"
+    },
+    {
+      "id": "65",
+      "name": "DTMF"
+    },
+    {
+      "id": "66",
+      "name": "CAN"
+    },
+    {
+      "id": "67",
+      "name": "SPI"
+    },
+    {
+      "id": "68",
+      "name": "I2C"
+    },
+    {
+      "id": "69",
+      "name": "IEEE"
+    },
+    {
+      "id": "70",
+      "name": "CRC"
+    },
+    {
+      "id": "71",
+      "name": "Interrupt (中断)"
+    },
+    {
+      "id": "73",
+      "name": "硬件间通信"
+    },
+    {
+      "id": "83",
+      "name": "硬件通信"
+    },
+    {
+      "id": "92",
+      "name": "网络协议"
+    },
+    {
+      "id": "101",
+      "name": "Common"
+    },
+    {
+      "id": "106",
+      "name": "OS"
+    },
+    {
+      "id": "121",
+      "name": "noOS"
+    },
+    {
+      "id": "124",
+      "name": "基础"
+    },
+    {
+      "id": "128",
+      "name": "PCB设计",
+      "children": [
+        {
+          "id": "130",
+          "name": "EAGLE"
+        },
+        {
+          "id": "131",
+          "name": "Cadence"
+        },
+        {
+          "id": "132",
+          "name": "Protel"
+        },
+        {
+          "id": "133",
+          "name": "Altium"
+        },
+        {
+          "id": "134",
+          "name": "Mentor"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "name": "电路仿真",
+      "children": [
+        {
+          "id": "138",
+          "name": "Multisim"
+        },
+        {
+          "id": "139",
+          "name": "Proteus"
+        },
+        {
+          "id": "140",
+          "name": "Pspice"
+        }
+      ]
     }
   ]
 }

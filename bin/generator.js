@@ -62,7 +62,7 @@ var buildTree = function (list) {
 
     var lastLevel0 = root.children;
     if (item.level === 1) {
-      delete item.level;
+      //delete item.level;
       lastLevel0.push(item);
     }
 
