@@ -6,15 +6,15 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
   - Controller(控制器)
     - CPU
     - MCU
-      - 51 
+      - 51
       - HCS12
-      - AVR XMEGA 
+      - AVR XMEGA
       - ESP8266
       - Coldfire
       - ARM STM32
     - MPU
     - DSP
-      - MSP430		
+      - MSP430
     - SOC
       - OMAP
     - CPLD
@@ -27,14 +27,14 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
       - TMS320F28x
       - MC56  F83x
   - Actuator(执行器)
-      - 电机
+    - 电机
   - Sensor(传感器)
     - RIP(人体红外)
     - Temperture(温度)
     - Light
     - Motion(运动)
     - Camera
-- electronic component(电子元件)
+- Electronic component(电子元件)
   - 电容
   - 保护装置
   - 端子与连接器
@@ -44,7 +44,7 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
     - Keypad
     - Relay
   - 电阻
-    - Thermistor (热敏电阻)  
+    - Thermistor (热敏电阻)
     - Varistor(压敏电阻)
   - 电磁感应装置
   - network
@@ -53,7 +53,7 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
   - 压电装置、晶体谐振器
   - 电源
   - 二极管
-  - 晶体管  
+  - 晶体管
 - 控制器核心电路(MCU Kenrel)
   - ADC / DAC
   - RTC
@@ -81,10 +81,10 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
     - 6LoWPAN
     - NFC
     - Wifi
-    - Radio 
+    - Radio
     - IR (红外)
     - 802.11
-  - 硬件通信  
+  - 硬件通信
     - UART
     - S2C
     - RS232C/RS485
@@ -124,6 +124,25 @@ Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心
     - RIOT
   - non-OS
     - LwIP
+- 电路
+  - 基础
+    - 焊电路
+    - 模拟电路
+    - 数字电路
+  - PCB设计
+    - 设计工具
+      - EAGLE
+      - Cadence
+      - Protel
+      - Altium
+      - Mentor
+    - 布线/布线
+  - 电路仿真
+    - 仿真软件
+      - Multisim
+      - Proteus
+      - Pspice
+
 
 ##内容贡献者
 
