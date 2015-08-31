@@ -1,5 +1,7 @@
 # 嵌入式知识总汇
 
+Idea came from [Qiu Juntao](http://icodeit.org/about-me/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
+
 - 硬件核心(Hardware Core)
   - Controller(控制器)
     - CPU
