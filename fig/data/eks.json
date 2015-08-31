@@ -1,0 +1,520 @@
+{
+  "id": "0",
+  "name": "嵌入式硬件工程师",
+  "children": [
+    {
+      "id": "1",
+      "name": "硬件核心(Hardware Core)",
+      "children": [
+        {
+          "id": "2",
+          "name": "Controller(控制器)",
+          "children": [
+            {
+              "id": "3",
+              "name": "CPU"
+            },
+            {
+              "id": "4",
+              "name": "MCU"
+            },
+            {
+              "id": "11",
+              "name": "MPU"
+            },
+            {
+              "id": "12",
+              "name": "DSP"
+            },
+            {
+              "id": "14",
+              "name": "SOC"
+            },
+            {
+              "id": "16",
+              "name": "CPLD"
+            },
+            {
+              "id": "19",
+              "name": "FPGA"
+            },
+            {
+              "id": "22",
+              "name": "DSC"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "name": "Actuator(执行器)",
+          "children": [
+            {
+              "id": "26",
+              "name": "电机"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "name": "Sensor(传感器)",
+          "children": [
+            {
+              "id": "28",
+              "name": "RIP(人体红外)"
+            },
+            {
+              "id": "29",
+              "name": "Temperature(温度)"
+            },
+            {
+              "id": "30",
+              "name": "Light"
+            },
+            {
+              "id": "31",
+              "name": "Motion(运动)"
+            },
+            {
+              "id": "32",
+              "name": "Camera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Electronic Component(电子元件)",
+      "children": [
+        {
+          "id": "34",
+          "name": "电容"
+        },
+        {
+          "id": "35",
+          "name": "保护装置"
+        },
+        {
+          "id": "36",
+          "name": "端子与连接器"
+        },
+        {
+          "id": "37",
+          "name": "电线"
+        },
+        {
+          "id": "38",
+          "name": "开关",
+          "children": [
+            {
+              "id": "39",
+              "name": "Switch"
+            },
+            {
+              "id": "40",
+              "name": "Keypad"
+            },
+            {
+              "id": "41",
+              "name": "Relay"
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "name": "电阻",
+          "children": [
+            {
+              "id": "43",
+              "name": "Thermistor (热敏电阻)"
+            },
+            {
+              "id": "44",
+              "name": "Varistor(压敏电阻)"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "name": "电磁感应装置"
+        },
+        {
+          "id": "46",
+          "name": "network",
+          "children": [
+            {
+              "id": "47",
+              "name": "电阻排"
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "name": "忆阻器"
+        },
+        {
+          "id": "49",
+          "name": "压电装置、晶体谐振器"
+        },
+        {
+          "id": "50",
+          "name": "电源"
+        },
+        {
+          "id": "51",
+          "name": "二极管"
+        },
+        {
+          "id": "52",
+          "name": "晶体管"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "控制器核心电路(MCU Kernel)",
+      "children": [
+        {
+          "id": "54",
+          "name": "ADC / DAC"
+        },
+        {
+          "id": "55",
+          "name": "RTC"
+        },
+        {
+          "id": "56",
+          "name": "Timer / Watchdog Timer (定时器)"
+        },
+        {
+          "id": "57",
+          "name": "Flash / NAND Flash"
+        },
+        {
+          "id": "58",
+          "name": "ROM / EEPROM"
+        },
+        {
+          "id": "59",
+          "name": "RAM"
+        },
+        {
+          "id": "60",
+          "name": "Cache"
+        },
+        {
+          "id": "61",
+          "name": "PWM"
+        },
+        {
+          "id": "62",
+          "name": "I/O / GPIO"
+        },
+        {
+          "id": "63",
+          "name": "UART"
+        },
+        {
+          "id": "64",
+          "name": "Modem"
+        },
+        {
+          "id": "65",
+          "name": "DTMF"
+        },
+        {
+          "id": "66",
+          "name": "CAN"
+        },
+        {
+          "id": "67",
+          "name": "SPI"
+        },
+        {
+          "id": "68",
+          "name": "I2C"
+        },
+        {
+          "id": "69",
+          "name": "IEEE"
+        },
+        {
+          "id": "70",
+          "name": "CRC"
+        },
+        {
+          "id": "71",
+          "name": "Interrupt (中断)"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Communication(通信)",
+      "children": [
+        {
+          "id": "73",
+          "name": "硬件间通信",
+          "children": [
+            {
+              "id": "74",
+              "name": "Bluetooth"
+            },
+            {
+              "id": "75",
+              "name": "Xbee / Zigbee"
+            },
+            {
+              "id": "76",
+              "name": "Z-Wave"
+            },
+            {
+              "id": "77",
+              "name": "6LoWPAN"
+            },
+            {
+              "id": "78",
+              "name": "NFC"
+            },
+            {
+              "id": "79",
+              "name": "Wifi"
+            },
+            {
+              "id": "80",
+              "name": "Radio"
+            },
+            {
+              "id": "81",
+              "name": "IR (红外)"
+            },
+            {
+              "id": "82",
+              "name": "802.11"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "name": "硬件通信",
+          "children": [
+            {
+              "id": "84",
+              "name": "UART"
+            },
+            {
+              "id": "85",
+              "name": "S2C"
+            },
+            {
+              "id": "86",
+              "name": "RS232C/RS485"
+            },
+            {
+              "id": "87",
+              "name": "HDLC"
+            },
+            {
+              "id": "88",
+              "name": "SPI/SCI/SI"
+            },
+            {
+              "id": "89",
+              "name": "CAN"
+            },
+            {
+              "id": "90",
+              "name": "USB"
+            },
+            {
+              "id": "91",
+              "name": "FireWire"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "name": "网络协议",
+          "children": [
+            {
+              "id": "93",
+              "name": "HTTP"
+            },
+            {
+              "id": "94",
+              "name": "CoAP"
+            },
+            {
+              "id": "95",
+              "name": "MQTT"
+            },
+            {
+              "id": "96",
+              "name": "XMPP"
+            },
+            {
+              "id": "97",
+              "name": "WebSocket"
+            },
+            {
+              "id": "98",
+              "name": "UDP"
+            },
+            {
+              "id": "99",
+              "name": "TCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "软件编程",
+      "children": [
+        {
+          "id": "101",
+          "name": "Common",
+          "children": [
+            {
+              "id": "102",
+              "name": "ISR"
+            },
+            {
+              "id": "103",
+              "name": "Driver"
+            },
+            {
+              "id": "104",
+              "name": "DMA"
+            },
+            {
+              "id": "105",
+              "name": "I2C"
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "name": "OS",
+          "children": [
+            {
+              "id": "107",
+              "name": "uCOS"
+            },
+            {
+              "id": "108",
+              "name": "Contiki"
+            },
+            {
+              "id": "109",
+              "name": "TinyOS"
+            },
+            {
+              "id": "110",
+              "name": "VXWorks"
+            },
+            {
+              "id": "111",
+              "name": "FreeRTOS"
+            },
+            {
+              "id": "112",
+              "name": "Windows CE"
+            },
+            {
+              "id": "113",
+              "name": "Windows 10 IoT Core"
+            },
+            {
+              "id": "114",
+              "name": "mbed OS"
+            },
+            {
+              "id": "115",
+              "name": "emOS"
+            },
+            {
+              "id": "116",
+              "name": "Salvo"
+            },
+            {
+              "id": "117",
+              "name": "MQX"
+            },
+            {
+              "id": "118",
+              "name": "uCLinux"
+            },
+            {
+              "id": "119",
+              "name": "openWRT"
+            },
+            {
+              "id": "120",
+              "name": "RIOT"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "name": "non-OS",
+          "children": [
+            {
+              "id": "122",
+              "name": "LwIP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "name": "电路",
+      "children": [
+        {
+          "id": "124",
+          "name": "基础",
+          "children": [
+            {
+              "id": "125",
+              "name": "焊电路"
+            },
+            {
+              "id": "126",
+              "name": "模拟电路"
+            },
+            {
+              "id": "127",
+              "name": "数字电路"
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "name": "PCB设计",
+          "children": [
+            {
+              "id": "129",
+              "name": "设计工具"
+            },
+            {
+              "id": "135",
+              "name": "布线/布线"
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "电路仿真",
+          "children": [
+            {
+              "id": "137",
+              "name": "仿真软件"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
