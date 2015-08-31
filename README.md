@@ -2,6 +2,8 @@
 
 Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
 
+Thanks to [Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+
 ##嵌入式开发知识结构
 
 - 嵌入式硬件工程师
