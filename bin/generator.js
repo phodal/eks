@@ -11,7 +11,7 @@ var getItems = function (str) {
 
   var list = [];
   while ((result = patt.exec(str)) != null)  {
-    list.push({level: result[1].length / 4, content: result[2].trim()});
+    list.push({level: result[1].length / 2, content: result[2].trim()});
   }
   return list;
 };
