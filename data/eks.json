@@ -1,0 +1,82 @@
+{
+  "id": "0",
+  "name": "硬件核心(Hardware Core)",
+  "children": [
+    {
+      "id": "2",
+      "name": "CPU"
+    },
+    {
+      "id": "3",
+      "name": "MCU"
+    },
+    {
+      "id": "10",
+      "name": "MPU"
+    },
+    {
+      "id": "11",
+      "name": "DSP"
+    },
+    {
+      "id": "13",
+      "name": "SOC"
+    },
+    {
+      "id": "15",
+      "name": "CPLD"
+    },
+    {
+      "id": "18",
+      "name": "FPGA"
+    },
+    {
+      "id": "21",
+      "name": "DSC"
+    },
+    {
+      "id": "27",
+      "name": "RIP(人体红外)"
+    },
+    {
+      "id": "28",
+      "name": "Temperture(温度)"
+    },
+    {
+      "id": "29",
+      "name": "Light"
+    },
+    {
+      "id": "30",
+      "name": "Motion(运动)"
+    },
+    {
+      "id": "31",
+      "name": "Camera"
+    },
+    {
+      "id": "38",
+      "name": "Switch"
+    },
+    {
+      "id": "39",
+      "name": "Keypad"
+    },
+    {
+      "id": "40",
+      "name": "Relay"
+    },
+    {
+      "id": "42",
+      "name": "Thermistor (热敏电阻)"
+    },
+    {
+      "id": "43",
+      "name": "Varistor(压敏电阻)"
+    },
+    {
+      "id": "46",
+      "name": "电阻排"
+    }
+  ]
+}
