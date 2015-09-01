@@ -12,10 +12,10 @@
         - Coldfire
         - ARM STM32
       - MPU
-      - DSP
-        - MSP430
       - SOC
         - OMAP
+        - BCM2835
+        - BCM2836
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
