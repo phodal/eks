@@ -78,6 +78,14 @@ var buildTree = function (list) {
       lastLevel2.children = lastLevel2.children || [];
       lastLevel2.children.push(item);
     }
+
+    if (item.level === 4) {
+      var lastLevel1Child = lastLevel0[lastLevel0.length - 1].children;
+      var lastLevel2Child = lastLevel1Child[lastLevel1Child.length - 1].children;
+      var lastLevel3 = lastLevel2Child[lastLevel2Child.length - 1];
+      lastLevel3.children = lastLevel3.children || [];
+      lastLevel3.children.push(item);
+    }
     delete item.level;
   }
   return root;

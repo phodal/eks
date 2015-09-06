@@ -28,7 +28,37 @@
             },
             {
               "id": "7",
-              "name": "MCU"
+              "name": "MCU",
+              "children": [
+                {
+                  "id": "8",
+                  "name": "MCS-51"
+                },
+                {
+                  "id": "9",
+                  "name": "HCS12"
+                },
+                {
+                  "id": "10",
+                  "name": "AVR XMEGA"
+                },
+                {
+                  "id": "11",
+                  "name": "ESP8266"
+                },
+                {
+                  "id": "12",
+                  "name": "Coldfire"
+                },
+                {
+                  "id": "13",
+                  "name": "ARM STM32"
+                },
+                {
+                  "id": "14",
+                  "name": "freescale K60 K40"
+                }
+              ]
             },
             {
               "id": "15",
@@ -36,27 +66,87 @@
             },
             {
               "id": "16",
-              "name": "DSP"
+              "name": "DSP",
+              "children": [
+                {
+                  "id": "17",
+                  "name": "MSP430"
+                }
+              ]
             },
             {
               "id": "18",
-              "name": "SOC"
+              "name": "SOC",
+              "children": [
+                {
+                  "id": "19",
+                  "name": "OMAP"
+                }
+              ]
             },
             {
               "id": "20",
-              "name": "CPLD"
+              "name": "CPLD",
+              "children": [
+                {
+                  "id": "21",
+                  "name": "Altera EPM7128S"
+                },
+                {
+                  "id": "22",
+                  "name": "Lattice LC4128V"
+                }
+              ]
             },
             {
               "id": "23",
-              "name": "FPGA"
+              "name": "FPGA",
+              "children": [
+                {
+                  "id": "24",
+                  "name": "Altera Cyclone"
+                },
+                {
+                  "id": "25",
+                  "name": "Xilinx XC9500"
+                },
+                {
+                  "id": "26",
+                  "name": "Lattice MachXO2"
+                }
+              ]
             },
             {
               "id": "27",
-              "name": "PowerPC"
+              "name": "PowerPC",
+              "children": [
+                {
+                  "id": "28",
+                  "name": "MPC505、821、850、860、8240、8245"
+                },
+                {
+                  "id": "29",
+                  "name": "Power QUICC ⅡMPC826"
+                },
+                {
+                  "id": "30",
+                  "name": "QUICC Ⅲ MPC8560"
+                }
+              ]
             },
             {
               "id": "31",
-              "name": "DSC"
+              "name": "DSC",
+              "children": [
+                {
+                  "id": "32",
+                  "name": "TMS320F28x"
+                },
+                {
+                  "id": "33",
+                  "name": "MC56 F83x"
+                }
+              ]
             }
           ]
         },
@@ -594,7 +684,57 @@
           "children": [
             {
               "id": "158",
-              "name": "设计工具"
+              "name": "设计工具",
+              "children": [
+                {
+                  "id": "159",
+                  "name": "EAGLE"
+                },
+                {
+                  "id": "160",
+                  "name": "Cadence"
+                },
+                {
+                  "id": "161",
+                  "name": "Protel"
+                },
+                {
+                  "id": "162",
+                  "name": "Altium"
+                },
+                {
+                  "id": "163",
+                  "name": "Mentor"
+                },
+                {
+                  "id": "164",
+                  "name": "Kicad"
+                },
+                {
+                  "id": "165",
+                  "name": "gEAD"
+                },
+                {
+                  "id": "166",
+                  "name": "ZUKEN"
+                },
+                {
+                  "id": "167",
+                  "name": "PADS"
+                },
+                {
+                  "id": "168",
+                  "name": "FreePCB"
+                },
+                {
+                  "id": "169",
+                  "name": "Fritzing"
+                },
+                {
+                  "id": "170",
+                  "name": "PCBmodE"
+                }
+              ]
             },
             {
               "id": "171",
@@ -608,11 +748,47 @@
           "children": [
             {
               "id": "173",
-              "name": "原理仿真软件"
+              "name": "原理仿真软件",
+              "children": [
+                {
+                  "id": "174",
+                  "name": "Multisim"
+                },
+                {
+                  "id": "175",
+                  "name": "Proteus"
+                },
+                {
+                  "id": "176",
+                  "name": "Pspice"
+                }
+              ]
             },
             {
               "id": "177",
-              "name": "信号仿真软件"
+              "name": "信号仿真软件",
+              "children": [
+                {
+                  "id": "178",
+                  "name": "ADS"
+                },
+                {
+                  "id": "179",
+                  "name": "HFSS"
+                },
+                {
+                  "id": "180",
+                  "name": "HyperLynx"
+                },
+                {
+                  "id": "181",
+                  "name": "Sigrity"
+                },
+                {
+                  "id": "182",
+                  "name": "MATLAB"
+                }
+              ]
             }
           ]
         }
