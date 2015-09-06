@@ -84,8 +84,8 @@ PS: **初稿，欢迎提供意见和建议**
     - Flash / NAND Flash
     - ROM / EEPROM
     - RAM
-     - SDRAM
-     - DDR1 DDR2 DDR3 DDR4
+      - SDRAM
+      - DDR1 DDR2 DDR3 DDR4
     - Cache
     - PWM
     - I/O / GPIO
@@ -179,7 +179,7 @@ PS: **初稿，欢迎提供意见和建议**
         - Multisim
         - Proteus
         - Pspice
-      -信号仿真软件
+      - 信号仿真软件
         - ADS
         - HFSS
         - HyperLynx

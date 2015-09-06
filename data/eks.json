@@ -264,7 +264,17 @@
         },
         {
           "id": "81",
-          "name": "RAM"
+          "name": "RAM",
+          "children": [
+            {
+              "id": "82",
+              "name": "SDRAM"
+            },
+            {
+              "id": "83",
+              "name": "DDR1 DDR2 DDR3 DDR4"
+            }
+          ]
         },
         {
           "id": "84",
