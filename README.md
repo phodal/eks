@@ -203,4 +203,5 @@ Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](h
 	 commits  : 2
 	 files    : 1
 	 authors  :
-	     2	Fengda HUANG  100.0%
+     12  Fengda HUANG  92.3%
+     1  yangquan      7.7%
