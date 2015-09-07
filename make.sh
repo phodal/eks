@@ -1,1 +1,0 @@
-node ./bin/generator.js
