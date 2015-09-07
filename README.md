@@ -7,8 +7,11 @@ PS: **初稿，欢迎提供意见和建议**
     - Controller(控制器)
       - ASIC
       - CPU
+      	- TMS320f2806x
       - AMD x86 x64
       - intel x86 x64
+      	- intel Edison
+      	- intel Galileo
       - MCU
         - MCS-51
         - HCS12
@@ -17,11 +20,19 @@ PS: **初稿，欢迎提供意见和建议**
         - Coldfire
         - ARM STM32
         - freescale K60 K40
+        - PIC32 PIC16
+        - TM4C123 TM4C129X
+        - Stellaris lm4f120
+        - CC3200
+        - Beaglebone-Black
+        - Pcduino
+        - Renesas R-Car Boards
+        - MIPS Creator CI20
       - MPU
       - SOC
         - OMAP
-        - BCM2835
-        - BCM2836
+        - BCM2835(RasPi A+、B、B+)
+        - BCM2836(RasPi 2B)
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
@@ -39,8 +50,12 @@ PS: **初稿，欢迎提供意见和建议**
     - Actuator(执行器)
       - 直流电机
       - 交流电机
+      	- 单相电机
+      	- 三相电机
       - 步进电机
       - 直线电机
+      - 舵机
+      - 伺服电机
     - Sensor(传感器)
       - RIP(人体红外)
       - Temperature(温度)
