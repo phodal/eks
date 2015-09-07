@@ -18,10 +18,10 @@ PS: **初稿，欢迎提供意见和建议**
         - ARM STM32
         - freescale K60 K40
       - MPU
-      - DSP
-        - MSP430
       - SOC
         - OMAP
+        - BCM2835
+        - BCM2836
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
