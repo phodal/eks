@@ -7,7 +7,6 @@ PS: **初稿，欢迎提供意见和建议**
     - Controller(控制器)
       - ASIC
       - CPU
-      	- TMS320f2806x
       - AMD x86 x64
       - intel x86 x64
       	- intel Edison
@@ -20,7 +19,7 @@ PS: **初稿，欢迎提供意见和建议**
         - Coldfire
         - ARM STM32
         - freescale K60 K40
-        - PIC32 PIC16
+        - PIC32 PIC12/14/16
         - TM4C123 TM4C129X
         - Stellaris lm4f120
         - CC3200
@@ -28,6 +27,7 @@ PS: **初稿，欢迎提供意见和建议**
         - Pcduino
         - Renesas R-Car Boards
         - MIPS Creator CI20
+        - UDOO
       - MPU
       - SOC
         - OMAP
@@ -39,7 +39,7 @@ PS: **初稿，欢迎提供意见和建议**
       - FPGA
         - Altera Cyclone
         - Xilinx XC9500
-        - Lattice MachXO2 
+        - Lattice MachXO2 MachXO3  
       - PowerPC
         - MPC505、821、850、860、8240、8245
         - Power QUICC ⅡMPC826
@@ -49,6 +49,8 @@ PS: **初稿，欢迎提供意见和建议**
         - MC56 F83x
     - Actuator(执行器)
       - 直流电机
+        - 有刷直流电机
+        - 无刷直流电机
       - 交流电机
       	- 单相电机
       	- 三相电机
@@ -63,6 +65,11 @@ PS: **初稿，欢迎提供意见和建议**
       - geomagnetic sensor（地磁传感器） 
       - acceleration transducer（加速度传感器）
       - optoelectronic switch （光电开关）
+      - pneumatic sensor (气流传感器)
+      - current sensor (电流传感器)
+      - soil sensor (土壤传感器)
+      - llumination sensor (光照传感器)
+      - laser sensor (激光传感器)
       - Motion(运动)
       - three-axis gyroscope（三轴陀螺仪）
       - Camera 感光元件（图像传感器）
@@ -84,6 +91,7 @@ PS: **初稿，欢迎提供意见和建议**
     - 电阻
       - Thermistor (热敏电阻)
       - Varistor(压敏电阻)
+      - Photosensitive resistance(光敏电阻)
     - 电磁感应装置
     - network
       - 电阻排
@@ -92,7 +100,7 @@ PS: **初稿，欢迎提供意见和建议**
     - 电源
     - 二极管
     - 晶体管
-  - 控制器核心电路(MCU Kernel)
+  - MCU/CPU/DSP/SOC peripherals
     - ADC / DAC
     - RTC
     - Timer / Watchdog Timer (定时器)
