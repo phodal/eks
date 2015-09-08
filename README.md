@@ -1,5 +1,5 @@
-#嵌入式知识总汇
-=======
+# 嵌入式知识总汇
+
 PS: **初稿，欢迎提供意见和建议**
 
 - 嵌入式工程师
@@ -7,28 +7,34 @@ PS: **初稿，欢迎提供意见和建议**
     - Controller(控制器)
       - ASIC
       - CPU
-      - AMD x86 x64
-      - intel x86 x64
+        - AMD x86 x64
+        - Intel x86 x64
       - MCU
         - MCS-51
         - HCS12
         - AVR XMEGA
-        - ESP8266
+        - ESP
         - Coldfire
         - ARM STM32
-        - freescale K60 K40
+        - FreeScale K60 K40
+        - PIC32 PIC12/14/16
+        - TM4C123 TM4C129X
+        - Stellaris lm4f120
+        - CC3200
+        - Renesas R-Car Boards
+        - MIPS Creator CI20
       - MPU
-      - DSP
-        - MSP430
       - SOC
         - OMAP
+        - BCM2835(RasPi A+、B、B+)
+        - BCM2836(RasPi 2B)
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
+        - Xilinx XC9500
       - FPGA
         - Altera Cyclone
-        - Xilinx XC9500
-        - Lattice MachXO2 
+        - Lattice MachXO2 MachXO3  
       - PowerPC
         - MPC505、821、850、860、8240、8245
         - Power QUICC ⅡMPC826
@@ -36,11 +42,18 @@ PS: **初稿，欢迎提供意见和建议**
       - DSC
         - TMS320F28x
         - MC56 F83x
+      - MIPS
     - Actuator(执行器)
       - 直流电机
+        - 有刷直流电机
+        - 无刷直流电机
       - 交流电机
+      	- 单相电机
+      	- 三相电机
       - 步进电机
       - 直线电机
+      - 舵机
+      - 伺服电机
     - Sensor(传感器)
       - RIP(人体红外)
       - Temperature(温度)
@@ -48,7 +61,13 @@ PS: **初稿，欢迎提供意见和建议**
       - geomagnetic sensor（地磁传感器） 
       - acceleration transducer（加速度传感器）
       - optoelectronic switch （光电开关）
+      - pneumatic sensor (气流传感器)
+      - current sensor (电流传感器)
+      - soil sensor (土壤传感器)
+      - llumination sensor (光照传感器)
+      - laser sensor (激光传感器)
       - Motion(运动)
+      - 电压传感器
       - three-axis gyroscope（三轴陀螺仪）
       - Camera 感光元件（图像传感器）
       - baroceptor（气压传感器）
@@ -69,6 +88,7 @@ PS: **初稿，欢迎提供意见和建议**
     - 电阻
       - Thermistor (热敏电阻)
       - Varistor(压敏电阻)
+      - Photosensitive resistance(光敏电阻)
     - 电磁感应装置
     - network
       - 电阻排
@@ -77,7 +97,7 @@ PS: **初稿，欢迎提供意见和建议**
     - 电源
     - 二极管
     - 晶体管
-  - 控制器核心电路(MCU Kernel)
+  - MCU/CPU/DSP/SOC peripherals
     - ADC / DAC
     - RTC
     - Timer / Watchdog Timer (定时器)
@@ -112,14 +132,13 @@ PS: **初稿，欢迎提供意见和建议**
       - Sub-GHZ 1Ghz以下RF
     - 硬件通信
       - UART
-      - S2C
+      - I2C
       - RS232C/RS485
       - HDLC
       - SPI/SCI/SI
       - CAN
       - USB
       - FireWire
-      - I2S
       - 1-wire
     - 网络协议
       - HTTP
@@ -141,17 +160,18 @@ PS: **初稿，欢迎提供意见和建议**
       - TinyOS
       - VXWorks
       - FreeRTOS
-      - Windows CE
-      - Windows 10 IoT Core
       - mbed OS
       - emOS
       - Salvo
       - MQX
-      - uCLinux
-      - uolinux
-      - openWRT
       - RIOT
       - rt-thread
+      - Linux
+      	- uCLinux
+      	- openWRT
+      - Windows
+        - Windows CE
+        - Windows 10 IoT Core
     - non-OS
       - LwIP
   - 电路
@@ -197,11 +217,12 @@ Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](h
 
 感谢以下的内容贡献者们，结果由git-summary生成
 
-	 project  : eks
-	 repo age : 44 minutes
-	 active   : 1 days
-	 commits  : 2
-	 files    : 1
-	 authors  :
-     12  Fengda HUANG  92.3%
-     1  yangquan      7.7%
+ project  : eks
+ repo age : 8 days
+ active   : 5 days
+ commits  : 26
+ files    : 1
+ authors  :
+    22  Fengda HUANG  84.7%
+     3  WangXB        11.5%
+     1  yangquan      3.8%
