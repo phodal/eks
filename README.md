@@ -158,17 +158,18 @@ PS: **初稿，欢迎提供意见和建议**
       - TinyOS
       - VXWorks
       - FreeRTOS
-      - Windows CE
-      - Windows 10 IoT Core
       - mbed OS
       - emOS
       - Salvo
       - MQX
-      - uCLinux
-      - uolinux
-      - openWRT
       - RIOT
       - rt-thread
+      - Linux
+      	- uCLinux
+      	- openWRT
+      - Windows
+        - Windows CE
+        - Windows 10 IoT Core
     - non-OS
       - LwIP
   - 电路
