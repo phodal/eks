@@ -5,7 +5,6 @@ PS: **初稿，欢迎提供意见和建议**
 - 嵌入式工程师
   - 硬件核心(Hardware Core)
     - Controller(控制器)
-      - ASIC
       - CPU
         - AMD x86 x64
         - Intel x86 x64
@@ -48,8 +47,8 @@ PS: **初稿，欢迎提供意见和建议**
         - 有刷直流电机
         - 无刷直流电机
       - 交流电机
-      	- 单相电机
-      	- 三相电机
+        - 单相电机
+        - 三相电机
       - 步进电机
       - 直线电机
       - 舵机
@@ -167,8 +166,8 @@ PS: **初稿，欢迎提供意见和建议**
       - RIOT
       - rt-thread
       - Linux
-      	- uCLinux
-      	- openWRT
+        - uCLinux
+        - openWRT
       - Windows
         - Windows CE
         - Windows 10 IoT Core
