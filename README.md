@@ -7,27 +7,22 @@ PS: **初稿，欢迎提供意见和建议**
     - Controller(控制器)
       - ASIC
       - CPU
-      - AMD x86 x64
-      - intel x86 x64
-      	- intel Edison
-      	- intel Galileo
+        - AMD x86 x64
+        - Intel x86 x64
       - MCU
         - MCS-51
         - HCS12
         - AVR XMEGA
-        - ESP8266
+        - ESP
         - Coldfire
         - ARM STM32
-        - freescale K60 K40
+        - FreeScale K60 K40
         - PIC32 PIC12/14/16
         - TM4C123 TM4C129X
         - Stellaris lm4f120
         - CC3200
-        - Beaglebone-Black
-        - Pcduino
         - Renesas R-Car Boards
         - MIPS Creator CI20
-        - UDOO
       - MPU
       - SOC
         - OMAP
@@ -36,9 +31,9 @@ PS: **初稿，欢迎提供意见和建议**
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
+        - Xilinx XC9500
       - FPGA
         - Altera Cyclone
-        - Xilinx XC9500
         - Lattice MachXO2 MachXO3  
       - PowerPC
         - MPC505、821、850、860、8240、8245
@@ -135,14 +130,13 @@ PS: **初稿，欢迎提供意见和建议**
       - Sub-GHZ 1Ghz以下RF
     - 硬件通信
       - UART
-      - S2C
+      - I2C
       - RS232C/RS485
       - HDLC
       - SPI/SCI/SI
       - CAN
       - USB
       - FireWire
-      - I2S
       - 1-wire
     - 网络协议
       - HTTP
