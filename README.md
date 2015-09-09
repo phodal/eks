@@ -25,8 +25,8 @@ PS: **初稿，欢迎提供意见和建议**
       - MPU
       - SOC
         - OMAP
-        - BCM2835(RasPi A+、B、B+)
-        - BCM2836(RasPi 2B)
+        - BCM2835(Raspberry Pi A+、B、B+)
+        - BCM2836(Raspberry Pi 2B)
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
@@ -36,7 +36,7 @@ PS: **初稿，欢迎提供意见和建议**
         - Lattice MachXO2 MachXO3  
       - PowerPC
         - MPC505、821、850、860、8240、8245
-        - Power QUICC ⅡMPC826
+        - QUICC ⅡMPC826
         - QUICC Ⅲ MPC8560
       - DSC
         - TMS320F28x
