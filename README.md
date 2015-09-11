@@ -14,7 +14,8 @@ PS: **初稿，欢迎提供意见和建议**
         - AVR XMEGA
         - ESP
         - Coldfire
-        - ARM STM32
+        - ARM
+        - STM32
         - FreeScale K60 K40
         - PIC32 PIC12/14/16
         - TM4C123 TM4C129X
@@ -207,10 +208,11 @@ PS: **初稿，欢迎提供意见和建议**
 
   
 
+##OTHERS
 
-Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
+1. Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
 
-Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
+2. Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
 
 ##内容贡献者
 
@@ -222,6 +224,6 @@ Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](h
     commits  : 26
     files    : 1
     authors  :
-      22  Fengda HUANG  84.7%
-       3  WangXB        11.5%
-       1  yangquan      3.8%
+      22  Fengda HUANG  86.7%
+       3  WangXB        10.0%
+       1  yangquan      3.3%
