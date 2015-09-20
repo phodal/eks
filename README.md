@@ -76,6 +76,8 @@ PS: **初稿，欢迎提供意见和建议**
       - Water level sensor（水位传感器）
       - Pulse sensor（脉搏传感器）
       - EEG sensor（脑皮质电位传感器）
+      - Flex Sensor (弯曲传感器）
+      - Atmospheric Pressure Sensor （气压传感器）
   - Electronic Component(电子元件)
     - 电容
     - 保护装置
