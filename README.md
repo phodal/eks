@@ -183,7 +183,7 @@ PS: **初稿，欢迎提供意见和建议**
       - 数字电路
     - PCB设计
       - 设计工具
-        - EAGLE
+        - Eagle
         - Cadence
         - Protel
         - Altium
