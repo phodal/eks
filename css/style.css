@@ -47,23 +47,6 @@
   line-height: 20px;
 }
 
-.title { 
-  width: 460px; 
-  position: fixed;
-  top: 10px;
-  right: -40px;
-  height: auto;
-  padding: 10px;
-  margin: 15px;
-  background-color: #444;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-  color: #fff;
-}
 
 a:hover {
   text-decoration: none;
