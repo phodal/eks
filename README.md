@@ -67,6 +67,7 @@ PS: **初稿，欢迎提供意见和建议**
       - llumination sensor (光照传感器)
       - laser sensor (激光传感器)
       - Motion(运动)
+      - Moisture sensor (土壤温度传感器)
       - 电压传感器
       - three-axis gyroscope（三轴陀螺仪）
       - Camera 感光元件（图像传感器）
