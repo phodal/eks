@@ -14,7 +14,8 @@ PS: **初稿，欢迎提供意见和建议**
         - AVR XMEGA
         - ESP
         - Coldfire
-        - ARM STM32
+        - ARM
+        - STM32
         - FreeScale K60 K40
         - PIC32 PIC12/14/16
         - TM4C123 TM4C129X
@@ -25,8 +26,8 @@ PS: **初稿，欢迎提供意见和建议**
       - MPU
       - SOC
         - OMAP
-        - BCM2835(RasPi A+、B、B+)
-        - BCM2836(RasPi 2B)
+        - BCM2835(Raspberry Pi A+、B、B+)
+        - BCM2836(Raspberry Pi 2B)
       - CPLD
         - Altera EPM7128S
         - Lattice LC4128V
@@ -36,7 +37,7 @@ PS: **初稿，欢迎提供意见和建议**
         - Lattice MachXO2 MachXO3  
       - PowerPC
         - MPC505、821、850、860、8240、8245
-        - Power QUICC ⅡMPC826
+        - QUICC ⅡMPC826
         - QUICC Ⅲ MPC8560
       - DSC
         - TMS320F28x
@@ -66,6 +67,7 @@ PS: **初稿，欢迎提供意见和建议**
       - llumination sensor (光照传感器)
       - laser sensor (激光传感器)
       - Motion(运动)
+      - Moisture sensor (土壤温度传感器)
       - 电压传感器
       - three-axis gyroscope（三轴陀螺仪）
       - Camera 感光元件（图像传感器）
@@ -75,6 +77,9 @@ PS: **初稿，欢迎提供意见和建议**
       - Water level sensor（水位传感器）
       - Pulse sensor（脉搏传感器）
       - EEG sensor（脑皮质电位传感器）
+      - Flex Sensor (弯曲传感器）
+      - proximity sensor (近距离传感器)
+      - Atmospheric Pressure Sensor （气压传感器）
   - Electronic Component(电子元件)
     - 电容
     - 保护装置
@@ -180,7 +185,7 @@ PS: **初稿，欢迎提供意见和建议**
       - 数字电路
     - PCB设计
       - 设计工具
-        - EAGLE
+        - Eagle
         - Cadence
         - Protel
         - Altium
@@ -207,21 +212,29 @@ PS: **初稿，欢迎提供意见和建议**
 
   
 
+##OTHERS
 
-Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
+1. Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
 
-Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
+2. Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
 
 ##内容贡献者
 
 感谢以下的内容贡献者们，结果由git-summary生成
 
- project  : eks
- repo age : 8 days
- active   : 5 days
- commits  : 26
- files    : 1
- authors  :
-    22  Fengda HUANG  84.7%
-     3  WangXB        11.5%
-     1  yangquan      3.8%
+    project  : eks
+    repo age : 8 days
+    active   : 5 days
+    commits  : 26
+    files    : 1
+    authors  :
+      22  Fengda HUANG  86.7%
+       3  WangXB        10.0%
+       1  yangquan      3.3%
+
+
+## License
+
+![cc](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可。
