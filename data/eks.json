@@ -50,574 +50,594 @@
                 },
                 {
                   "id": "12",
-                  "name": "ARM STM32"
+                  "name": "ARM"
                 },
                 {
                   "id": "13",
-                  "name": "FreeScale K60 K40"
+                  "name": "STM32"
                 },
                 {
                   "id": "14",
-                  "name": "PIC32 PIC12/14/16"
+                  "name": "FreeScale K60 K40"
                 },
                 {
                   "id": "15",
-                  "name": "TM4C123 TM4C129X"
+                  "name": "PIC32 PIC12/14/16"
                 },
                 {
                   "id": "16",
-                  "name": "Stellaris lm4f120"
+                  "name": "TM4C123 TM4C129X"
                 },
                 {
                   "id": "17",
-                  "name": "CC3200"
+                  "name": "Stellaris lm4f120"
                 },
                 {
                   "id": "18",
-                  "name": "Renesas R-Car Boards"
+                  "name": "CC3200"
                 },
                 {
                   "id": "19",
+                  "name": "Renesas R-Car Boards"
+                },
+                {
+                  "id": "20",
                   "name": "MIPS Creator CI20"
                 }
               ]
             },
             {
-              "id": "20",
+              "id": "21",
               "name": "MPU"
             },
             {
-              "id": "21",
+              "id": "22",
               "name": "SOC",
               "children": [
                 {
-                  "id": "22",
+                  "id": "23",
                   "name": "OMAP"
                 },
                 {
-                  "id": "23",
-                  "name": "BCM2835(RasPi A+、B、B+)"
+                  "id": "24",
+                  "name": "BCM2835(Raspberry Pi A+、B、B+)"
                 },
                 {
-                  "id": "24",
-                  "name": "BCM2836(RasPi 2B)"
+                  "id": "25",
+                  "name": "BCM2836(Raspberry Pi 2B)"
                 }
               ]
             },
             {
-              "id": "25",
+              "id": "26",
               "name": "CPLD",
               "children": [
                 {
-                  "id": "26",
+                  "id": "27",
                   "name": "Altera EPM7128S"
                 },
                 {
-                  "id": "27",
+                  "id": "28",
                   "name": "Lattice LC4128V"
                 },
                 {
-                  "id": "28",
+                  "id": "29",
                   "name": "Xilinx XC9500"
                 }
               ]
             },
             {
-              "id": "29",
+              "id": "30",
               "name": "FPGA",
               "children": [
                 {
-                  "id": "30",
+                  "id": "31",
                   "name": "Altera Cyclone"
                 },
                 {
-                  "id": "31",
+                  "id": "32",
                   "name": "Lattice MachXO2 MachXO3"
                 }
               ]
             },
             {
-              "id": "32",
+              "id": "33",
               "name": "PowerPC",
               "children": [
                 {
-                  "id": "33",
+                  "id": "34",
                   "name": "MPC505、821、850、860、8240、8245"
                 },
                 {
-                  "id": "34",
-                  "name": "Power QUICC ⅡMPC826"
+                  "id": "35",
+                  "name": "QUICC ⅡMPC826"
                 },
                 {
-                  "id": "35",
+                  "id": "36",
                   "name": "QUICC Ⅲ MPC8560"
                 }
               ]
             },
             {
-              "id": "36",
+              "id": "37",
               "name": "DSC",
               "children": [
                 {
-                  "id": "37",
+                  "id": "38",
                   "name": "TMS320F28x"
                 },
                 {
-                  "id": "38",
+                  "id": "39",
                   "name": "MC56 F83x"
                 }
               ]
             },
             {
-              "id": "39",
+              "id": "40",
               "name": "MIPS"
             }
           ]
         },
         {
-          "id": "40",
+          "id": "41",
           "name": "Actuator(执行器)",
           "children": [
             {
-              "id": "41",
+              "id": "42",
               "name": "直流电机",
               "children": [
                 {
-                  "id": "42",
+                  "id": "43",
                   "name": "有刷直流电机"
                 },
                 {
-                  "id": "43",
+                  "id": "44",
                   "name": "无刷直流电机"
                 }
               ]
             },
             {
-              "id": "44",
+              "id": "45",
               "name": "交流电机",
               "children": [
                 {
-                  "id": "45",
+                  "id": "46",
                   "name": "单相电机"
                 },
                 {
-                  "id": "46",
+                  "id": "47",
                   "name": "三相电机"
                 }
               ]
             },
             {
-              "id": "47",
+              "id": "48",
               "name": "步进电机"
             },
             {
-              "id": "48",
+              "id": "49",
               "name": "直线电机"
             },
             {
-              "id": "49",
+              "id": "50",
               "name": "舵机"
             },
             {
-              "id": "50",
+              "id": "51",
               "name": "伺服电机"
             }
           ]
         },
         {
-          "id": "51",
+          "id": "52",
           "name": "Sensor(传感器)",
           "children": [
             {
-              "id": "52",
+              "id": "53",
               "name": "RIP(人体红外)"
             },
             {
-              "id": "53",
+              "id": "54",
               "name": "Temperature(温度)"
             },
             {
-              "id": "54",
+              "id": "55",
               "name": "humidity sensor（湿度传感器）"
             },
             {
-              "id": "55",
+              "id": "56",
               "name": "geomagnetic sensor（地磁传感器）"
             },
             {
-              "id": "56",
+              "id": "57",
               "name": "acceleration transducer（加速度传感器）"
             },
             {
-              "id": "57",
+              "id": "58",
               "name": "optoelectronic switch （光电开关）"
             },
             {
-              "id": "58",
+              "id": "59",
               "name": "pneumatic sensor (气流传感器)"
             },
             {
-              "id": "59",
+              "id": "60",
               "name": "current sensor (电流传感器)"
             },
             {
-              "id": "60",
+              "id": "61",
               "name": "soil sensor (土壤传感器)"
             },
             {
-              "id": "61",
+              "id": "62",
               "name": "llumination sensor (光照传感器)"
             },
             {
-              "id": "62",
+              "id": "63",
               "name": "laser sensor (激光传感器)"
             },
             {
-              "id": "63",
+              "id": "64",
               "name": "Motion(运动)"
             },
             {
-              "id": "64",
-              "name": "电压传感器"
-            },
-            {
               "id": "65",
-              "name": "three-axis gyroscope（三轴陀螺仪）"
+              "name": "Moisture sensor (土壤温度传感器)"
             },
             {
               "id": "66",
-              "name": "Camera 感光元件（图像传感器）"
+              "name": "电压传感器"
             },
             {
               "id": "67",
-              "name": "baroceptor（气压传感器）"
+              "name": "three-axis gyroscope（三轴陀螺仪）"
             },
             {
               "id": "68",
-              "name": "gas sensor（气敏传感器）"
+              "name": "Camera 感光元件（图像传感器）"
             },
             {
               "id": "69",
-              "name": "Dust concentration sensor（粉尘浓度传感器）PM2.5"
+              "name": "baroceptor（气压传感器）"
             },
             {
               "id": "70",
-              "name": "Water level sensor（水位传感器）"
+              "name": "gas sensor（气敏传感器）"
             },
             {
               "id": "71",
-              "name": "Pulse sensor（脉搏传感器）"
+              "name": "Dust concentration sensor（粉尘浓度传感器）PM2.5"
             },
             {
               "id": "72",
+              "name": "Water level sensor（水位传感器）"
+            },
+            {
+              "id": "73",
+              "name": "Pulse sensor（脉搏传感器）"
+            },
+            {
+              "id": "74",
               "name": "EEG sensor（脑皮质电位传感器）"
+            },
+            {
+              "id": "75",
+              "name": "Flex Sensor (弯曲传感器）"
+            },
+            {
+              "id": "76",
+              "name": "proximity sensor (近距离传感器)"
+            },
+            {
+              "id": "77",
+              "name": "Atmospheric Pressure Sensor （气压传感器）"
             }
           ]
         }
       ]
     },
     {
-      "id": "73",
+      "id": "78",
       "name": "Electronic Component(电子元件)",
       "children": [
         {
-          "id": "74",
+          "id": "79",
           "name": "电容"
         },
         {
-          "id": "75",
+          "id": "80",
           "name": "保护装置"
         },
         {
-          "id": "76",
+          "id": "81",
           "name": "端子与连接器"
         },
         {
-          "id": "77",
+          "id": "82",
           "name": "电线"
         },
         {
-          "id": "78",
+          "id": "83",
           "name": "开关",
           "children": [
             {
-              "id": "79",
+              "id": "84",
               "name": "Switch"
             },
             {
-              "id": "80",
+              "id": "85",
               "name": "Keypad"
             },
             {
-              "id": "81",
+              "id": "86",
               "name": "Relay"
             }
           ]
         },
         {
-          "id": "82",
+          "id": "87",
           "name": "电阻",
           "children": [
             {
-              "id": "83",
+              "id": "88",
               "name": "Thermistor (热敏电阻)"
             },
             {
-              "id": "84",
+              "id": "89",
               "name": "Varistor(压敏电阻)"
             },
             {
-              "id": "85",
+              "id": "90",
               "name": "Photosensitive resistance(光敏电阻)"
             }
           ]
         },
         {
-          "id": "86",
+          "id": "91",
           "name": "电磁感应装置"
         },
         {
-          "id": "87",
+          "id": "92",
           "name": "network",
           "children": [
             {
-              "id": "88",
+              "id": "93",
               "name": "电阻排"
             }
           ]
         },
         {
-          "id": "89",
+          "id": "94",
           "name": "忆阻器"
         },
         {
-          "id": "90",
+          "id": "95",
           "name": "压电装置、晶体谐振器"
         },
         {
-          "id": "91",
+          "id": "96",
           "name": "电源"
         },
         {
-          "id": "92",
+          "id": "97",
           "name": "二极管"
         },
         {
-          "id": "93",
+          "id": "98",
           "name": "晶体管"
         }
       ]
     },
     {
-      "id": "94",
+      "id": "99",
       "name": "MCU/CPU/DSP/SOC peripherals",
       "children": [
         {
-          "id": "95",
+          "id": "100",
           "name": "ADC / DAC"
         },
         {
-          "id": "96",
+          "id": "101",
           "name": "RTC"
         },
         {
-          "id": "97",
+          "id": "102",
           "name": "Timer / Watchdog Timer (定时器)"
         },
         {
-          "id": "98",
+          "id": "103",
           "name": "Flash / NAND Flash"
         },
         {
-          "id": "99",
+          "id": "104",
           "name": "ROM / EEPROM"
         },
         {
-          "id": "100",
+          "id": "105",
           "name": "RAM",
           "children": [
             {
-              "id": "101",
+              "id": "106",
               "name": "SDRAM"
             },
             {
-              "id": "102",
+              "id": "107",
               "name": "DDR1 DDR2 DDR3 DDR4"
             }
           ]
         },
         {
-          "id": "103",
+          "id": "108",
           "name": "Cache"
         },
         {
-          "id": "104",
+          "id": "109",
           "name": "PWM"
         },
         {
-          "id": "105",
+          "id": "110",
           "name": "I/O / GPIO"
         },
         {
-          "id": "106",
+          "id": "111",
           "name": "UART"
         },
         {
-          "id": "107",
+          "id": "112",
           "name": "Modem"
         },
         {
-          "id": "108",
+          "id": "113",
           "name": "DTMF"
         },
         {
-          "id": "109",
+          "id": "114",
           "name": "CAN"
         },
         {
-          "id": "110",
+          "id": "115",
           "name": "SPI"
         },
         {
-          "id": "111",
+          "id": "116",
           "name": "I2C"
         },
         {
-          "id": "112",
+          "id": "117",
           "name": "IEEE"
         },
         {
-          "id": "113",
+          "id": "118",
           "name": "CRC"
         },
         {
-          "id": "114",
+          "id": "119",
           "name": "Interrupt (中断)"
         }
       ]
     },
     {
-      "id": "115",
+      "id": "120",
       "name": "Communication(通信)",
       "children": [
         {
-          "id": "116",
+          "id": "121",
           "name": "硬件间无线通信",
           "children": [
             {
-              "id": "117",
+              "id": "122",
               "name": "Bluetooth"
             },
             {
-              "id": "118",
+              "id": "123",
               "name": "Xbee / Zigbee"
             },
             {
-              "id": "119",
+              "id": "124",
               "name": "Z-Wave"
             },
             {
-              "id": "120",
+              "id": "125",
               "name": "6LoWPAN"
             },
             {
-              "id": "121",
+              "id": "126",
               "name": "NFC"
             },
             {
-              "id": "122",
+              "id": "127",
               "name": "Wifi"
             },
             {
-              "id": "123",
+              "id": "128",
               "name": "Radio"
             },
             {
-              "id": "124",
+              "id": "129",
               "name": "IR (红外)"
             },
             {
-              "id": "125",
+              "id": "130",
               "name": "802.11"
             },
             {
-              "id": "126",
+              "id": "131",
               "name": "Sub-GHZ 1Ghz以下RF"
             }
           ]
         },
         {
-          "id": "127",
+          "id": "132",
           "name": "硬件通信",
           "children": [
             {
-              "id": "128",
+              "id": "133",
               "name": "UART"
             },
             {
-              "id": "129",
+              "id": "134",
               "name": "I2C"
             },
             {
-              "id": "130",
+              "id": "135",
               "name": "RS232C/RS485"
             },
             {
-              "id": "131",
+              "id": "136",
               "name": "HDLC"
             },
             {
-              "id": "132",
+              "id": "137",
               "name": "SPI/SCI/SI"
             },
             {
-              "id": "133",
+              "id": "138",
               "name": "CAN"
             },
             {
-              "id": "134",
+              "id": "139",
               "name": "USB"
             },
             {
-              "id": "135",
+              "id": "140",
               "name": "FireWire"
             },
             {
-              "id": "136",
+              "id": "141",
               "name": "1-wire"
             }
           ]
         },
         {
-          "id": "137",
+          "id": "142",
           "name": "网络协议",
           "children": [
             {
-              "id": "138",
+              "id": "143",
               "name": "HTTP"
             },
             {
-              "id": "139",
+              "id": "144",
               "name": "CoAP"
             },
             {
-              "id": "140",
+              "id": "145",
               "name": "MQTT"
             },
             {
-              "id": "141",
+              "id": "146",
               "name": "XMPP"
             },
             {
-              "id": "142",
+              "id": "147",
               "name": "WebSocket"
             },
             {
-              "id": "143",
+              "id": "148",
               "name": "UDP"
             },
             {
-              "id": "144",
+              "id": "149",
               "name": "TCP"
             }
           ]
@@ -625,103 +645,103 @@
       ]
     },
     {
-      "id": "145",
+      "id": "150",
       "name": "软件编程",
       "children": [
         {
-          "id": "146",
+          "id": "151",
           "name": "Common",
           "children": [
             {
-              "id": "147",
+              "id": "152",
               "name": "ISR"
             },
             {
-              "id": "148",
+              "id": "153",
               "name": "Driver"
             },
             {
-              "id": "149",
+              "id": "154",
               "name": "DMA"
             },
             {
-              "id": "150",
+              "id": "155",
               "name": "I2C"
             }
           ]
         },
         {
-          "id": "151",
+          "id": "156",
           "name": "OS",
           "children": [
             {
-              "id": "152",
+              "id": "157",
               "name": "uCOS"
             },
             {
-              "id": "153",
+              "id": "158",
               "name": "Contiki"
             },
             {
-              "id": "154",
+              "id": "159",
               "name": "TinyOS"
             },
             {
-              "id": "155",
+              "id": "160",
               "name": "VXWorks"
             },
             {
-              "id": "156",
+              "id": "161",
               "name": "FreeRTOS"
             },
             {
-              "id": "157",
+              "id": "162",
               "name": "mbed OS"
             },
             {
-              "id": "158",
+              "id": "163",
               "name": "emOS"
             },
             {
-              "id": "159",
+              "id": "164",
               "name": "Salvo"
             },
             {
-              "id": "160",
+              "id": "165",
               "name": "MQX"
             },
             {
-              "id": "161",
+              "id": "166",
               "name": "RIOT"
             },
             {
-              "id": "162",
+              "id": "167",
               "name": "rt-thread"
             },
             {
-              "id": "163",
+              "id": "168",
               "name": "Linux",
               "children": [
                 {
-                  "id": "164",
+                  "id": "169",
                   "name": "uCLinux"
                 },
                 {
-                  "id": "165",
+                  "id": "170",
                   "name": "openWRT"
                 }
               ]
             },
             {
-              "id": "166",
+              "id": "171",
               "name": "Windows",
               "children": [
                 {
-                  "id": "167",
+                  "id": "172",
                   "name": "Windows CE"
                 },
                 {
-                  "id": "168",
+                  "id": "173",
                   "name": "Windows 10 IoT Core"
                 }
               ]
@@ -729,11 +749,11 @@
           ]
         },
         {
-          "id": "169",
+          "id": "174",
           "name": "non-OS",
           "children": [
             {
-              "id": "170",
+              "id": "175",
               "name": "LwIP"
             }
           ]
@@ -741,135 +761,135 @@
       ]
     },
     {
-      "id": "171",
+      "id": "176",
       "name": "电路",
       "children": [
         {
-          "id": "172",
+          "id": "177",
           "name": "基础",
           "children": [
             {
-              "id": "173",
+              "id": "178",
               "name": "焊电路"
             },
             {
-              "id": "174",
+              "id": "179",
               "name": "模拟电路"
             },
             {
-              "id": "175",
+              "id": "180",
               "name": "数字电路"
             }
           ]
         },
         {
-          "id": "176",
+          "id": "181",
           "name": "PCB设计",
           "children": [
             {
-              "id": "177",
+              "id": "182",
               "name": "设计工具",
               "children": [
                 {
-                  "id": "178",
-                  "name": "EAGLE"
-                },
-                {
-                  "id": "179",
-                  "name": "Cadence"
-                },
-                {
-                  "id": "180",
-                  "name": "Protel"
-                },
-                {
-                  "id": "181",
-                  "name": "Altium"
-                },
-                {
-                  "id": "182",
-                  "name": "Mentor"
-                },
-                {
                   "id": "183",
-                  "name": "Kicad"
+                  "name": "Eagle"
                 },
                 {
                   "id": "184",
-                  "name": "gEAD"
+                  "name": "Cadence"
                 },
                 {
                   "id": "185",
-                  "name": "ZUKEN"
+                  "name": "Protel"
                 },
                 {
                   "id": "186",
-                  "name": "PADS"
+                  "name": "Altium"
                 },
                 {
                   "id": "187",
-                  "name": "FreePCB"
+                  "name": "Mentor"
                 },
                 {
                   "id": "188",
-                  "name": "Fritzing"
+                  "name": "Kicad"
                 },
                 {
                   "id": "189",
+                  "name": "gEAD"
+                },
+                {
+                  "id": "190",
+                  "name": "ZUKEN"
+                },
+                {
+                  "id": "191",
+                  "name": "PADS"
+                },
+                {
+                  "id": "192",
+                  "name": "FreePCB"
+                },
+                {
+                  "id": "193",
+                  "name": "Fritzing"
+                },
+                {
+                  "id": "194",
                   "name": "PCBmodE"
                 }
               ]
             },
             {
-              "id": "190",
+              "id": "195",
               "name": "布线/布线"
             }
           ]
         },
         {
-          "id": "191",
+          "id": "196",
           "name": "电路仿真",
           "children": [
             {
-              "id": "192",
+              "id": "197",
               "name": "原理仿真软件",
               "children": [
                 {
-                  "id": "193",
+                  "id": "198",
                   "name": "Multisim"
                 },
                 {
-                  "id": "194",
+                  "id": "199",
                   "name": "Proteus"
                 },
                 {
-                  "id": "195",
+                  "id": "200",
                   "name": "Pspice"
                 }
               ]
             },
             {
-              "id": "196",
+              "id": "201",
               "name": "信号仿真软件",
               "children": [
                 {
-                  "id": "197",
+                  "id": "202",
                   "name": "ADS"
                 },
                 {
-                  "id": "198",
+                  "id": "203",
                   "name": "HFSS"
                 },
                 {
-                  "id": "199",
+                  "id": "204",
                   "name": "HyperLynx"
                 },
                 {
-                  "id": "200",
+                  "id": "205",
                   "name": "Sigrity"
                 },
                 {
-                  "id": "201",
+                  "id": "206",
                   "name": "MATLAB"
                 }
               ]
