@@ -211,12 +211,7 @@ PS: **初稿，欢迎提供意见和建议**
         - MATLAB
 
   
-
-##OTHERS
-
-1. Idea came from [Qiu Juntao](http://icodeit.org/)(ps:《JavaScript核心概念及实践》、《轻量级Web应用开发》、《3周3Web设计》、《Fun with underscore.js》的作者).
-
-2. Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
+Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
 
 ##内容贡献者
 
