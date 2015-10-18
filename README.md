@@ -218,14 +218,14 @@ Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](h
 感谢以下的内容贡献者们，结果由git-summary生成
 
     project  : eks
-    repo age : 8 days
-    active   : 5 days
-    commits  : 26
+    repo age : 7 weeks
+    active   : 12 days
+    commits  : 37
     files    : 1
     authors  :
-      22  Fengda HUANG  86.7%
-       3  WangXB        10.0%
-       1  yangquan      3.3%
+      33  Fengda HUANG  89.1%
+       3  WangXB        8.1%
+       1  yangquan      2.7%
 
 
 ## License
