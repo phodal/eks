@@ -1,6 +1,6 @@
 # 嵌入式知识总汇
 
-PS: **初稿，欢迎提供意见和建议**
+**欢迎提供意见和建议**
 
 - 嵌入式工程师
   - 硬件核心(Hardware Core)
@@ -210,8 +210,6 @@ PS: **初稿，欢迎提供意见和建议**
         - Sigrity
         - MATLAB
 
-  
-Thanks To [JacksonTian](https://github.com/JacksonTian) & [前端技能汇总](https://github.com/JacksonTian/fks)
 
 ##内容贡献者
 
